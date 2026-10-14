@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9357c85f-4157-40a4-8ded-ecae5976dd6d" name="Changes" comment="Pushing did not work for some reason, pycharm moment">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9357c85f-4157-40a4-8ded-ecae5976dd6d" name="Changes" comment="Правки в отчет">
+      <change afterPath="$PROJECT_DIR$/~$1_Дубков_Святослав.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР1_Дубков_Святослав.docx" beforeDir="false" afterPath="$PROJECT_DIR$/ЛР1_Дубков_Святослав.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,13 +233,22 @@
       <option name="project" value="LOCAL" />
       <updated>1791935031454</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Правки в отчет">
+      <option name="closed" value="true" />
+      <created>1791938528951</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791938528951</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit&#10;Default Project" />
     <MESSAGE value="I forgot to commit changes so I guess everything is done now" />
     <MESSAGE value="Pushing did not work for some reason, pycharm moment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pushing did not work for some reason, pycharm moment" />
+    <MESSAGE value="Правки в отчет" />
+    <option name="LAST_COMMIT_MESSAGE" value="Правки в отчет" />
   </component>
 </project>
