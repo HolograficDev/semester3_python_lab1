@@ -1,12 +1,26 @@
-# Лабораторная работа №1. Введение в Python
+# Лабораторная работа по Python
 
-Одиннадцать небольших заданий, оформленных как модули пакета `tasks`.
-Каждый модуль содержит данные, чистые функции и `run()`, который печатает результат.
+Репозиторий с выполненными заданиями по дисциплине "Теория алгоритмов", 3 курс.
 
+## Требования
+
+```bash
+Python 3.10+
+pip
+```
+
+## Установка
+
+```bash
+git clone https://github.com/HolograficDev/semester3_python_lab1.git
+cd python-lab-1
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+```
 ## Запуск
 
 ```bash
-pip install -r requirements.txt
 python main.py        # все задания подряд
 pytest                # тесты
 python tasks/05_zoo.py   # одно задание
