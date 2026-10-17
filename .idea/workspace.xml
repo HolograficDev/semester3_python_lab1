@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9357c85f-4157-40a4-8ded-ecae5976dd6d" name="Changes" comment="Правки в отчет">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9357c85f-4157-40a4-8ded-ecae5976dd6d" name="Changes" comment="Правки">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks/00_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/00_distance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tasks/01_circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/01_circle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tasks/03_favorite_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/03_favorite_movies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks/04_my_family.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/04_my_family.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks/05_zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/05_zoo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/08_garden.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/08_garden.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tasks/10_store.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/10_store.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$1_Дубков_Святослав.docx" beforeDir="false" afterPath="$PROJECT_DIR$/~$1_Дубков_Святослав.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР1_Дубков_Святослав.docx" beforeDir="false" afterPath="$PROJECT_DIR$/ЛР1_Дубков_Святослав.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,7 @@
       <recent name="C:\Users\Holografic\PycharmProjects\semester3_python_lab1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.00_distance">
+  <component name="RunManager" selected="Python.08_garden">
     <configuration name="00_distance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="semester3_python_lab1" />
       <option name="ENV_FILES" value="" />
@@ -74,6 +71,50 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/00_distance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01_circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="semester3_python_lab1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/01_circle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_favorite_movies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="semester3_python_lab1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/03_favorite_movies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,50 +167,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09_shopping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="semester3_python_lab1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tasks" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/09_shopping.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="10_store" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="semester3_python_lab1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tasks" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/10_store.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="semester3_python_lab1" />
       <option name="ENV_FILES" value="" />
@@ -194,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.00_distance" />
-        <item itemvalue="Python.10_store" />
-        <item itemvalue="Python.09_shopping" />
         <item itemvalue="Python.08_garden" />
+        <item itemvalue="Python.03_favorite_movies" />
+        <item itemvalue="Python.01_circle" />
         <item itemvalue="Python.07_secret" />
+        <item itemvalue="Python.00_distance" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791938637484</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Правки">
+      <option name="closed" value="true" />
+      <created>1792229812181</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1792229812181</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -274,6 +279,7 @@
     <MESSAGE value="I forgot to commit changes so I guess everything is done now" />
     <MESSAGE value="Pushing did not work for some reason, pycharm moment" />
     <MESSAGE value="Правки в отчет" />
-    <option name="LAST_COMMIT_MESSAGE" value="Правки в отчет" />
+    <MESSAGE value="Правки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Правки" />
   </component>
 </project>

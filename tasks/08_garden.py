@@ -27,12 +27,20 @@ def compare_flowers(garden_set, meadow_set):
     )
 
 
+WEED_FLOWERS = ('одуванчик', 'клевер', 'мак', 'пырей', 'лебеда', 'осот')
+WEED_SET = set(WEED_FLOWERS)
+
+
 def run():
     everything, shared, garden_only, meadow_only = compare_flowers(GARDEN_SET, MEADOW_SET)
     print('Все виды:', everything)
     print('И там, и там:', shared)
     print('Только в саду:', garden_only)
     print('Только на лугу:', meadow_only)
+
+    print('Сорняки в саду:', GARDEN_SET & WEED_SET)
+    print('Сорняки на лугу:', MEADOW_SET & WEED_SET)
+    print('Новые сорняки:', WEED_SET - GARDEN_SET - MEADOW_SET)
 
 
 if __name__ == '__main__':

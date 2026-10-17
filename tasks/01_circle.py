@@ -47,11 +47,40 @@ def run():
     print(is_inside_circle(POINT_B, RADIUS))
 
 
-if __name__ == '__main__':
-    run()
+
 
 # Пример вывода на консоль:
 #
 # 77777.7777
 # False
 # False
+
+#прямогуголник
+
+RECT_WIDTH = 50
+RECT_HEIGHT = 20
+
+
+def rectangle_area(width, height):
+    return round(width * height, 4)
+
+
+def is_inside_rectangle(point, width, height):
+    x, y = point
+    return abs(x) < width / 2 and abs(y) < height / 2
+
+
+POINT_C = (200, 5)
+POINT_D = (35, 5)
+
+
+def run_rectangle():
+    print(rectangle_area(RECT_WIDTH, RECT_HEIGHT))
+    print(is_inside_rectangle(POINT_C, RECT_WIDTH, RECT_HEIGHT))
+    print(is_inside_rectangle(POINT_D, RECT_WIDTH, RECT_HEIGHT))
+
+if __name__ == '__main__':
+    run()
+    run_rectangle()
+
+
