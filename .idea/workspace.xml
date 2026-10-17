@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9357c85f-4157-40a4-8ded-ecae5976dd6d" name="Changes" comment="Правки в отчет">
-      <change afterPath="$PROJECT_DIR$/~$1_Дубков_Святослав.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР1_Дубков_Святослав.docx" beforeDir="false" afterPath="$PROJECT_DIR$/ЛР1_Дубков_Святослав.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/00_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/00_distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/01_circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/01_circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/03_favorite_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/03_favorite_movies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/04_my_family.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/04_my_family.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/05_zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/05_zoo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/10_store.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/10_store.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$1_Дубков_Святослав.docx" beforeDir="false" afterPath="$PROJECT_DIR$/~$1_Дубков_Святослав.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,44 +22,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3Kf1o895TqHrxqfhsAw97J8Myc8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in test_tasks.py.executor": "Run",
-    "Python.00_distance.executor": "Run",
-    "Python.01_circle.executor": "Run",
-    "Python.02_operations.executor": "Run",
-    "Python.03_favorite_movies.executor": "Run",
-    "Python.04_my_family.executor": "Run",
-    "Python.05_zoo.executor": "Run",
-    "Python.06_songs_list.executor": "Run",
-    "Python.07_secret.executor": "Run",
-    "Python.08_garden.executor": "Run",
-    "Python.09_shopping.executor": "Run",
-    "Python.10_store.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "Console"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_tasks.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00_distance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_favorite_movies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_my_family.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_zoo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_songs_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_secret.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_garden.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_shopping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_store.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Holografic\PycharmProjects\semester3_python_lab1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="06_songs_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.00_distance">
+    <configuration name="00_distance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="semester3_python_lab1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/06_songs_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/00_distance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.00_distance" />
         <item itemvalue="Python.10_store" />
         <item itemvalue="Python.09_shopping" />
         <item itemvalue="Python.08_garden" />
         <item itemvalue="Python.07_secret" />
-        <item itemvalue="Python.06_songs_list" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +250,23 @@
       <option name="project" value="LOCAL" />
       <updated>1791938528951</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Правки в отчет">
+      <option name="closed" value="true" />
+      <created>1791938628371</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1791938628371</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Правки в отчет">
+      <option name="closed" value="true" />
+      <created>1791938637484</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1791938637484</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

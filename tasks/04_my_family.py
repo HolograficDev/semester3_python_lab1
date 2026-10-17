@@ -18,7 +18,7 @@ HEIGHTS_CM = [
 
 
 def father_height(heights):
-    """Рост «папы» или None, если его нет в списке."""
+    """Рост папы или None если его нет в списке."""
     return next((cm for name, cm in heights if name == 'папа'), None)
 
 

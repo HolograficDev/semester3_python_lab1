@@ -9,7 +9,7 @@ CAGES = ['lion', 'kangaroo', 'elephant', 'monkey']
 
 
 def seat_bear(cages):
-    """Возвращает новый список; медведь встаёт прямо перед кенгуру."""
+    """Возвращает новый список; медведь встаёт перед кенгуру"""
     pos = cages.index('kangaroo')
     return cages[:pos] + ['bear'] + cages[pos:]
 

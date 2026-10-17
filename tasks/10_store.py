@@ -41,7 +41,7 @@ STOCK = {
 
 
 def summarize_stock(codes, stock):
-    """Список (товар, общее количество, общая стоимость) в порядке словаря codes."""
+    """Список (товар, общее количество, общая стоимость) в порядке словаря codes"""
     report = []
     for product, code in codes.items():
         lots = stock[code]
