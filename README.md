@@ -42,11 +42,31 @@ python tasks/05_zoo.py   # одно задание
 | `09_shopping` | две минимальные цены на сладости |
 | `10_store` | стоимость товаров на складе |
 
+## Архитектура проекта
+
 ```mermaid
 flowchart TD
-    A[Начало] --> B{Условие}
-    B -- Да --> C[Действие 1]
-    B -- Нет --> D[Действие 2]
-    C --> E[Конец]
-    D --> E
+    A[main.py<br/>запуск всех заданий] -->|импорт| T[tasks/<br/>пакет заданий]
+    B[pytest<br/>tests/test_tasks.py] -->|импорт| T
+    C[python tasks/05_zoo.py<br/>запуск одного модуля] --> T
+
+    T --> T1[00_distance]
+    T --> T2[01_circle]
+    T --> T3[02_operations]
+    T --> T4[03_favorite_movies]
+    T --> T5[04_my_family]
+    T --> T6[05_zoo]
+    T --> T7[06_songs_list]
+    T --> T8[07_secret]
+    T --> T9[08_garden]
+    T --> T10[09_shopping]
+    T --> T11[10_store]
+
+    P[pytest.ini<br/>testpaths, pythonpath] -.-> B
+    R[requirements.txt] -.-> A
+    R -.-> B
+
+    T1 -.->|изолирован<br/>нет зависимостей| T2
+    T2 -.-> T3
+    T3 -.-> T4
 ```
