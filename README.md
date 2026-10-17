@@ -46,7 +46,7 @@ python tasks/05_zoo.py   # одно задание
 
 ```mermaid
 flowchart TD
-    R[requirements.txt] --> V[.venv]
+    V[.venv] --> R[requirements.txt]
     V --> M[main.py]
     V --> P[tests/test_tasks.py]
     C[pytest.ini] --> P
