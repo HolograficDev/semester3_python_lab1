@@ -6,7 +6,7 @@
 
 ```bash
 Python 3.10+
-pip
+pip 23.2.1+
 ```
 
 ## Установка
@@ -41,3 +41,28 @@ python tasks/05_zoo.py   # одно задание
 | `08_garden` | множества цветов |
 | `09_shopping` | две минимальные цены на сладости |
 | `10_store` | стоимость товаров на складе |
+
+## Архитектура проекта
+
+```mermaid
+flowchart TD
+    V[.venv] --> R[requirements.txt]
+    V --> M[main.py]
+    V --> P[tests/test_tasks.py]
+    C[pytest.ini] --> P
+
+    M --> T[tasks/]
+    T --> P
+
+    T --> T1[00_distance]
+    T --> T2[01_circle]
+    T --> T3[02_operations]
+    T --> T4[03_favorite_movies]
+    T --> T5[04_my_family]
+    T --> T6[05_zoo]
+    T --> T7[06_songs_list]
+    T --> T8[07_secret]
+    T --> T9[08_garden]
+    T --> T10[09_shopping]
+    T --> T11[10_store]
+```
