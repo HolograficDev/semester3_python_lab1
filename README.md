@@ -50,8 +50,10 @@ flowchart TD
     V --> M[main.py]
     V --> P[tests/test_tasks.py]
     C[pytest.ini] --> P
+
     M --> T[tasks/]
-    P --> T
+    T --> P
+
     T --> T1[00_distance]
     T --> T2[01_circle]
     T --> T3[02_operations]
